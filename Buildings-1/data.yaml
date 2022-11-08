@@ -1,0 +1,12 @@
+names:
+- Buildings
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: buildings-4cbo7
+  url: https://universe.roboflow.com/project-xriho/buildings-4cbo7/dataset/1
+  version: 1
+  workspace: project-xriho
+test: ../test/images
+train: Buildings-1/train/images
+val: Buildings-1/valid/images
