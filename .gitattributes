@@ -1,2 +1,4 @@
 # this drop notebooks from GitHub language stats
 *.ipynb linguist-vendored
+High[[:space:]]Altitude[[:space:]]Video.mp4 filter=lfs diff=lfs merge=lfs -text
+Another[[:space:]]high[[:space:]]altitude[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
